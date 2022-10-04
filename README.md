@@ -1,5 +1,4 @@
-## <center>Hi there 👋</center>
-<hr>
+<center><h2> Hi there 👋</h2></center>
 
 ### Something about myself...
 
