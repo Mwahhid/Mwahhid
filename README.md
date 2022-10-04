@@ -1,4 +1,9 @@
-### Hi there 👋
+## <center>Hi there 👋</center>
+<hr>
+
+### Something about myself...
+
+I'm a third-year undergraduate at Rhodes College with a passion for cybersecurity and software engineering, but there are a lot of other fields of computer science that I want to delve more into!
 
 <!--
 **Mwahhid/Mwahhid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
