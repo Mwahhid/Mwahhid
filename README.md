@@ -2,7 +2,7 @@
 
 ### Something about myself...
 
-I'm a third-year undergraduate at Rhodes College with a passion for cybersecurity and software engineering, but there are a lot of other fields of computer science that I want to delve more into!
+I'm a senior at Rhodes College with a passion for artificial intelligence, software engineering, and cybersecurity, but there are a lot of other fields of computer science that I want to delve more into!
 
 <h3 align="center">My Badges</h3>
 
